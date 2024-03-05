@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Carlos U. Pérez Malla</title>
-    <link>https://example.org/de/tags/</link>
+    <link>https://perez-malla.com/de/tags/</link>
     <description>Recent content in Tags on Carlos U. Pérez Malla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="https://example.org/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://perez-malla.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

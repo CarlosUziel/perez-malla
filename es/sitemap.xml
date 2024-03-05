@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/es/</loc>
+    <loc>https://perez-malla.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/"
+                href="https://perez-malla.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/"
+                href="https://perez-malla.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/"
+                href="https://perez-malla.com/es/"
                 />
   </url><url>
-    <loc>https://example.org/es/categories/</loc>
+    <loc>https://perez-malla.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/categories/"
+                href="https://perez-malla.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/categories/"
+                href="https://perez-malla.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/categories/"
+                href="https://perez-malla.com/es/categories/"
                 />
   </url><url>
-    <loc>https://example.org/es/tags/</loc>
+    <loc>https://perez-malla.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.org/de/tags/"
+                href="https://perez-malla.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.org/tags/"
+                href="https://perez-malla.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.org/es/tags/"
+                href="https://perez-malla.com/es/tags/"
                 />
   </url>
 </urlset>
