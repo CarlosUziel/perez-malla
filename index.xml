@@ -6,6 +6,14 @@
     <description>Recent content on Carlos U. Pérez Malla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://perez-malla.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://perez-malla.com/impressum/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://perez-malla.com/impressum/</guid>
+      <description>Carlos Uziel Perez Malla, MSc&#xA;Services in automatic data processing and information technology&#xA;Kochgasse 26&#xA;1080, Wien, Österreich&#xA;Phone: +43 67763076517&#xA;Email: carlos.perez-malla@perez-malla.com&#xA;VAT: ATU80285816</description>
+    </item>
   </channel>
 </rss>
